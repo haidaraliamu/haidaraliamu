@@ -1,5 +1,3 @@
-![Zaid's GitHub Banner](https://github.com/Zaidamu/Zaidamu/blob/main/images/guthub.webp)
-
 # About Me:
 ## Haidar Ali Warsi - README
 
